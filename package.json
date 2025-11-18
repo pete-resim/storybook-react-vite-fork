@@ -1,6 +1,6 @@
 {
   "name": "@pete-resim/react-vite",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Storybook for React and Vite: Develop, document, and test UI components in isolation",
   "keywords": [
     "storybook",
